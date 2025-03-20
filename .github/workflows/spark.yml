@@ -36,4 +36,3 @@ jobs:
 
     - run: spark-submit --master local hello-spark.py
     - run: ls -la  
-
